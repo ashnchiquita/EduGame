@@ -6,4 +6,4 @@ Chiquita Ahsanunnisa (16521248),
 Muhammad Gerhard Juliano (16521365)
 
 # Guide
-Untuk memainkan game ini, folder harus ada di directory renpy (otomatis harus punya renpy launcher)
+Untuk memainkan game ini, anda harus punya renpy launcher. Kalau sudah download, pindahkan ke directory renpy tersebut. Buka renpy, lalu launch project ini.
